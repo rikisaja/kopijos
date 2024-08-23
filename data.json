@@ -1,52 +1,110 @@
 {
-    "Kopi": [
+    "Arabica": [
         {
-            "foto": "https://img.freepik.com/free-photo/delicious-quality-coffee-cup_23-2150691369.jpg",
-            "nama": "Cappuccino",
-            "harga": "25.000",
-            "size": "150 ml",
-            "link": "#"
+            "nama": "Kopi Arabika Sidikalang",
+            "size": "1.000 Gram",
+            "harga": "148.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/1.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-sidikalang-1000-gr-biji"
         },
         {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Espresso",
-            "harga": "15.000",
-            "size": "100 ml",
-            "link": "#"
-        }
-    ],
-    "Teh": [
-        {
-            "foto": "https://dcostseafood.id/wp-content/uploads/2021/12/Teh-tawar-manis.jpg",
-            "nama": "Teh Tawar Manis",
-            "harga": "5.000",
-            "size": "100 ml",
-            "link": "#"
-        }
-    ],
-    "Camilan": [
-        {
-            "foto": "https://img-global.cpcdn.com/recipes/f3d4726746ab80f2/1200x630cq70/photo.jpg",
-            "nama": "Donat Mix",
-            "harga": "25.000",
-            "size": "12 Pcs",
-            "link": "#"
-        }
-    ],
-    "Minuman Keras": [
-        {
-            "foto": "https://sulanginaja.com/wp-content/uploads/2022/08/Orang_Tua_Anggur_Merah_1000px.jpg",
-            "nama": "Red Wine",
-            "harga": "25.000",
-            "size": "1 liter",
-            "link": "#"
+            "nama": "Kopi Arabica Aceh Gayo Super",
+            "size": "500 Gram",
+            "harga": "58.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/2.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-aceh-gayo-super-500-gr-bubuk-kasar"
         },
-         {
-            "foto": "https://www.theboogaloobali.com/wp-content/uploads/prost-beer-bottles.png",
-            "nama": "Prost Beer",
+        {
+            "nama": "Kopi Arabica Gayo Honey Process",
+            "size": "1.000 Gram",
+            "harga": "200.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/3.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-honey-process-1-kg-bubuk-halus"
+        },
+        {
+            "nama": "Kopi Arabica Gayo Premium Specialty",
+            "size": "200 Gram",
+            "harga": "49.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/4.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-premium-specialty-200-gr-bubuk-biji-grosir-biji"
+        },
+        {
+            "nama": "Kopi Luwak Liar Arabica Gayo",
+            "size": "1.000 Gram",
+            "harga": "280.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/5.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-luwak-liar-arabica-gayo-1kg-biji-bubuk-bubuk-halus"
+        },
+        {
+            "nama": "Kopi Arabica Gayo Peaberry",
+            "size": "500 Gram",
+            "harga": "105.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/6.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-peaberry-jantan-500-gr-bubuk-biji-biji"
+        },
+        {
+            "nama": "Kopi Arabica Gayo Wine",
+            "size": "500 Gram",
+            "harga": "118.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/7.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-gayo-wine-500-gr-biji-bubuk-grosir-reseller-dropshiper-bubuk-halus"
+        }
+    ],
+    "Robusta": [
+        {
+            "nama": "Kopi Aceh Robusta Gayo Natural Premium",
+            "size": "250 Gram",
             "harga": "25.000",
-            "size": "500 Ml",
-            "link": "#"
+            "foto": "https://rikikurnia.com/prakerja/api/img/8.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-aceh-robusta-gayo-natural-premium-250-gr-bubuk-kasar"
+        },
+        {
+            "nama": "Kopi Robusta Natural Sidikalang Premium",
+            "size": "500 Gram",
+            "harga": "40.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/9.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-robusta-natural-sidikalang-premium-500-gr-biji"
+        },
+        {
+            "nama": "Kopi Luwak",
+            "size": "500 Gram",
+            "harga": "180.000",
+            "link": "#",
+            "foto": "https://images-cdn.ubuy.co.id/6461b16c5c4f7131c90e4209-ground-wild-kopi-luwak-the-world-s.jpg"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "nama": "Es Krim Mangkok",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "foto": "https://p0.pxfuel.com/preview/861/839/598/ice-ice-cream-ice-cream-sundae-sweet.jpg",
+            "link": "https://www.tokopedia.com/jakartagrosirjaya/aice-vanilla-chocolate-sundae-ice-cream-eskrim-800-ml"
+        },
+        {
+            "nama": "Es Teh Manis",
+            "size": "300 ml",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://asset.kompas.com/crops/GRGOpdUcySMF4sTvMlSEpJpFcTM=/0x0:4939x3293/750x500/data/photo/2022/09/25/63300cfd403f0.jpg"
+        }
+    ],
+    "Minuman Keras 17+": [
+        {
+            "nama": "Absolute",
+            "size": "750 Ml",
+            "harga": "900.000",
+            "link": "#",
+            "foto": "https://yukorder.com/wp-content/uploads/2019/06/absolut-blue.png"
+        }
+    ],
+    "Power Bank": [
+        {
+            "nama": "Vivan 20 Pro",
+            "size": "100ml",
+            "harga": "180.000",
+            "link": "#",
+            "foto": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/9/11/6629266/6629266_966a03ce-ec3e-4bd3-8257-2762edf66820_700_700.jpg"
         }
     ]
 }
