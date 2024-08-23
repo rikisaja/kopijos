@@ -40,6 +40,13 @@
             "harga": "25.000",
             "size": "1 liter",
             "link": "#"
+        },
+         {
+            "foto": "https://www.theboogaloobali.com/wp-content/uploads/prost-beer-bottles.png",
+            "nama": "Prost Beer",
+            "harga": "25.000",
+            "size": "500 Ml",
+            "link": "#"
         }
     ]
 }
