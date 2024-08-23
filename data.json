@@ -1,0 +1,45 @@
+{
+    "Kopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/delicious-quality-coffee-cup_23-2150691369.jpg",
+            "nama": "Cappuccino",
+            "harga": "25.000",
+            "size": "150 ml",
+            "link": "#"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+    ],
+    "Teh": [
+        {
+            "foto": "https://dcostseafood.id/wp-content/uploads/2021/12/Teh-tawar-manis.jpg",
+            "nama": "Teh Tawar Manis",
+            "harga": "5.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+    ],
+    "Camilan": [
+        {
+            "foto": "https://img-global.cpcdn.com/recipes/f3d4726746ab80f2/1200x630cq70/photo.jpg",
+            "nama": "Donat Mix",
+            "harga": "25.000",
+            "size": "12 Pcs",
+            "link": "#"
+        }
+    ],
+    "Minuman Keras": [
+        {
+            "foto": "https://sulanginaja.com/wp-content/uploads/2022/08/Orang_Tua_Anggur_Merah_1000px.jpg",
+            "nama": "Red Wine",
+            "harga": "25.000",
+            "size": "1 liter",
+            "link": "#"
+        }
+    ]
+}
